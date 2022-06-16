@@ -5,3 +5,5 @@ help teachers！
 中文说明：如何下载
 1.选中zip进入页面
 2.点击Download
+
+<p onclick="alert("62271")">点我显示最新版本</p>
