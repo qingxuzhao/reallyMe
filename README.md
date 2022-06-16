@@ -1,5 +1,5 @@
 # select a number update link or Alpha Beta Develop Rp link (delete)
-Users can update the select a number by download files.
+Users can update the select a number by downloading files.<br>
 help teachers！
 
 中文说明：如何下载
